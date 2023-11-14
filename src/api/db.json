@@ -31,6 +31,14 @@
       "phone": "1234567899",
       "companiesId": "1",
       "id": 6
+    },
+    {
+      "name": "Vivaldo",
+      "username": "",
+      "email": "vivavitor101@gmail.com",
+      "phone": "9986635152",
+      "companiesId": "1",
+      "id": 8
     }
   ],
   "companies": [
@@ -48,6 +56,6 @@
       "id": 3,
       "name": "Keebler LLC",
       "catchPhrase": "User-centric fault-tolerant solution"
-    }
+    } 
   ]
 }
